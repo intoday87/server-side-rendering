@@ -1,0 +1,8 @@
+{
+  "name": "server-side-rendering",
+  "version": "1.0.0",
+  "description": "react-redux server side rendering practice",
+  "main": "index.js",
+  "repository": "https://github.com/intoday87/server-side-rendering.git",
+  "license": "MIT"
+}
